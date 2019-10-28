@@ -1,4 +1,4 @@
 def square_array(array)
-  numbers=[1,4,9,]
-  Sqaure_away(numbers)
+  numbers=[1,2,3,]
+  sqaure_array(numbers)
 end
